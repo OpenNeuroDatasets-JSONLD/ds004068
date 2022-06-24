@@ -1,0 +1,16 @@
+{
+ "python": "/data/u_mkaptan_software/SpinalCord_version422/spinalcordtoolbox-4.2.2/python/envs/venv_sct/bin/python",
+ "cwd": "/data/pt_02098/ZShim_BIDS_Organized/processed_data/Recons1/sub-ZS014",
+ "cmdline": "sct_propseg -i ZRef_MEAN_QC.nii.gz -c t2s -radius 5 -qc /data/pt_02098/ZShim_BIDS_Organized/processed_data/Recons1/QC_ZRefEPIsegmentation -qc-subject sub-ZS014",
+ "command": "sct_propseg",
+ "sct_version": "4.2.2",
+ "dataset": "processed_data",
+ "subject": "sub-ZS014",
+ "contrast": "sub-ZS014",
+ "fname_in": "ZRef_MEAN_QC.nii.gz",
+ "orientation": "Axial",
+ "background_img": "processed_data/sub-ZS014/sub-ZS014/sct_propseg/2022_03_16_130950.416554/bkg_img.png",
+ "overlay_img": "processed_data/sub-ZS014/sub-ZS014/sct_propseg/2022_03_16_130950.416554/overlay_img.png",
+ "dimension": "60x600",
+ "moddate": "2022-03-16 13:09:50"
+}
