@@ -42,5 +42,15 @@
             "EPI-based": "automatic selection based on z-shim reference EPI scan",
             "FM-based": "automatic selection based on field-map"
         }
+    },
+    "participant_id": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": ""
+            },
+            "Identifies": "participant"
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     }
 }
